@@ -1,5 +1,5 @@
 # VBA-Challenge: Module2Challenge
-**Description**: The VBA script sets out to loop throught the yearly worksheets in the file tand produce: 
+**Description**: The VBA script sets out to loop throught the yearly worksheets in the file and produce: 
 The ticker symbol
 Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year ( w/conditional formating applied to showcase the positive (green) and negative chnages(red)
